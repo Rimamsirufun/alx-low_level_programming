@@ -1,2 +1,6 @@
-char *s = "Programming is like building a multilingual puzzle";
-puts(s);
+#include <stdio.h>
+int main()
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return 0;
+}
