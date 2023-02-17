@@ -1,13 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - main is void
+ * main - Entry point
  *
- * return : 0 when successful executed
- */ 
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (successful)
+ */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,""\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-}	
+}
