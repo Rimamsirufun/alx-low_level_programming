@@ -1,7 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
-/** print_array - Print n elements of an array of integers
+/**
+ * print_array - Print n elements of an array of integers
  * @a: Array of integers
  * @n: Number of elemnts of the array to be printed
  * Return: void
