@@ -2,6 +2,7 @@
 
 /**
  * rev_strong - Reverses a string
+ * rev_string used to reverse
  * @s: The string to be modified
  * Return: void
  */
